@@ -1,5 +1,7 @@
 # Real-Time-Image-Enhancer-Application
 Real-time image enhancement app enabling users to adjust brightness, contrast, sharpness, blur, denoise, and deblur with interactive previews. Uses advanced computer vision techniques like Wiener Filtering for precise deblurring, delivering professional-quality results and an intuitive user experience.
+
+
 ![image](https://github.com/user-attachments/assets/d66544a9-dbdc-4b99-bda8-c9a1722a049e)
 
 > **Setup Instructions**
